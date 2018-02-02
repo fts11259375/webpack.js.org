@@ -26,7 +26,7 @@ contributors:
 
 T> 你需要从这份文档中收获最大的点，就是你的 webpack 配置，可以有很多种的格式和风格。但为了你和你的团队能够易于理解和维护，你们要始终采取同一种用法、格式和风格。
 
-接下来的例子展示了 webpack 配置对象(webpack configuration object)如何即具有表现力，又具有可配置性，这是因为_配置对象即是代码_：
+接下来的例子展示了 webpack 配置对象(webpack configuration object)如何既具有表现力，又具有可配置性，这是因为_配置对象即是代码_：
 
 ## 最简单的配置
 
